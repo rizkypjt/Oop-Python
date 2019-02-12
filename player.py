@@ -7,4 +7,9 @@ class Player:
 #di luar class
 
 pemain = Player()
+
+#cara pertama
 print(pemain.name)
+
+#cara kedua
+print (pemain.getName())
